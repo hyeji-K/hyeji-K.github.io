@@ -4,8 +4,7 @@ layout: post
 title: Collection Types - Array, Set, Dictionary
 date: 2024-02-02
 categories: Swift
-tages:
-  - [Swift, Collection Types, Array, Set, Dictionary]
+tags: [Swift, Collection Types, Array, Set, Dictionary]
 ---
 
 
