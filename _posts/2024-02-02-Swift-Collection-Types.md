@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: Collection Types - Array, Set, Dictionary
+# title: Collection Types - Array, Set, Dictionary
 date: 2024-02-02
 categories: Swift
 tags: [Swift, Collection Types, Array, Set, Dictionary]
